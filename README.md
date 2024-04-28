@@ -2,7 +2,7 @@
 ### This is our code for ANPR Projects
 
 There are 3 major code segments that we will implement in our research.
-- Data Processing
+- Data Processing/n
 Based on the diverse input data, we need to ensure that the input used is in the form of images with dimensions of around 800x800 pixels. In this case, we need to convert data that is still in the form of CCTV videos to meet these criteria.
 - License Plate Localization
 Based on our previous proposal, we will use Mask R-CNN for this task. This is because the algorithm is capable of capturing vehicle license plates well even in less-than-ideal conditions. The algorithm will output images of the license plates that have been separated from the vehicles.
